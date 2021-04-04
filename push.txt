@@ -2,4 +2,5 @@ git remote add origin https://github.com/samytexas/web-site.git
 git branch -M main
 git push -u origin main
 nimeweza kufanya push sahv nasomea pull
-from line 4 ndo nafanya pull
+from line 4 ndo nafanya pull sahivi
+its wonderful
